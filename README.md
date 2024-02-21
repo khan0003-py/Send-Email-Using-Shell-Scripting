@@ -10,10 +10,10 @@
  2. sudo apt-get install ssmtp
 
 **Step 2: Create the Script** Create a file named **`send_email.sh`** and open it in a text editor:
-  nano send_email.sh
+  **command :** nano send_email.sh
 
 **Step 3: Make the Script Executable**
-  chmod +x send_email.sh
+  **command :** chmod +x send_email.sh
 
 **Step 4: Run the Script**
-  ./send_email.sh
+  **command :** ./send_email.sh
