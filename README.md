@@ -6,14 +6,16 @@
 5. Provide a memorable name and click "Generate."
 
 **Step 1: Install `ssmtp`**
- 1. sudo apt-get update
- 2. sudo apt-get install ssmtp
+1. `sudo apt-get update`
+2. `sudo apt-get install ssmtp`
 
-**Step 2: Create the Script** Create a file named **`send_email.sh`** and open it in a text editor:
-  **command :** nano send_email.sh
+**Step 2: Create the Script**
+Create a file named **`send_email.sh`** and open it in a text editor:
+```bash
+nano send_email.sh
 
-**Step 3: Make the Script Executable**
-  **command :** chmod +x send_email.sh
+Step 3: Make the Script Executable
+chmod +x send_email.sh
 
-**Step 4: Run the Script**
-  **command :** ./send_email.sh
+Step 4: Run the Script
+./send_email.sh
