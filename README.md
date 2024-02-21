@@ -1,4 +1,4 @@
-**Step 0 - Generate Google Account App Password:**
+**Step 0: Generate Google Account App Password:**
 1. Navigate to your Google Account.
 2. Select "Security."
 3. Under "Signing in to Google," opt for 2-Step Verification.
