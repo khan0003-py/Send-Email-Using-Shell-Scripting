@@ -23,5 +23,5 @@ chmod +x send_email.sh
 
 **Step 4: Run the Script**
 ```bash
-./send_email.sh
+sudo ./send_email.sh
 ```
